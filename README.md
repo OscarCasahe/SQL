@@ -9,7 +9,7 @@ Este proyecto consta con un fichero SQL con la solución de los enunciados propu
 -  README.md # Descripción del proyecto
 
 
-Para poder ejecutar este proyecto necesitarás tener instalado en tu equipo: 
+🖥️ Para poder ejecutar este proyecto necesitarás tener instalado en tu equipo: 
 
 - Postgre para la instalación de la bbdd 
 - Dveaber como recomendación de entorno
